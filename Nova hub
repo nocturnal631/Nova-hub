@@ -1,1 +1,177 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _pGDWboh_aHxg = a; end)); return(function(m,...)local b;local r;local t;local d;local h;local _;local e=24915;local n=0;local l={};while n<222 do n=n+1;while n<0x333 and e%0x3274<0x193a do n=n+1 e=(e-472)%19774 local f=n+e if(e%0x366a)>0x1b35 then e=(e+0x23d)%0x35f2 while n<0x12c and e%0x39b4<0x1cda do n=n+1 e=(e-225)%24441 local t=n+e if(e%0x39c2)<0x1ce1 then e=(e-0x1db)%0x2927 local e=68243 if not l[e]then l[e]=0x1 end elseif e%2~=0 then e=(e*0x2bc)%0x8ec3 local e=90998 if not l[e]then l[e]=0x1 end else e=(e*0x3a4)%0x71b2 n=n+1 local e=3195 if not l[e]then l[e]=0x1 r=tonumber;end end end elseif e%2~=0 then e=(e*0x390)%0xbac while n<0x6b and e%0x1d90<0xec8 do n=n+1 e=(e*363)%7301 local d=n+e if(e%0x1bf2)<=0xdf9 then e=(e*0x1b8)%0x5c78 local e=74033 if not l[e]then l[e]=0x1 t=(not t)and _ENV or t;end elseif e%2~=0 then e=(e*0xf4)%0x1dc1 local e=89612 if not l[e]then l[e]=0x1 b=string;end else e=(e-0x135)%0x8c7a n=n+1 local e=40467 if not l[e]then l[e]=0x1 h={};end end end else e=(e+0x119)%0x911 n=n+1 while n<0x6e and e%0x42c0<0x2160 do n=n+1 e=(e+348)%30564 local f=n+e if(e%0x3bbc)<0x1dde then e=(e*0x3bb)%0x9c29 local e=21439 if not l[e]then l[e]=0x1 t=getfenv and getfenv();end elseif e%2~=0 then e=(e-0x380)%0x7654 local e=2461 if not l[e]then l[e]=0x1 d=function(d)local e=0x01 local function l(n)e=e+n return d:sub(e-n,e-0x01)end while true do local n=l(0x01)if(n=="\5")then break end local e=b.byte(l(0x01))local e=l(e)if n=="\2"then e=h.tIEwAkmT(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then t[e]=function(n,e)return m(8,nil,m,e,n)end elseif n=="\4"then e=t[e]elseif n=="\0"then e=t[e][l(b.byte(l(0x01)))];end local n=l(0x08)h[n]=e end end end else e=(e-0x179)%0x306c n=n+1 local e=40883 if not l[e]then l[e]=0x1 _="\4\8\116\111\110\117\109\98\101\114\116\73\69\119\65\107\109\84\0\6\115\116\114\105\110\103\4\99\104\97\114\83\88\71\75\73\113\110\95\0\6\115\116\114\105\110\103\3\115\117\98\89\84\112\83\95\102\99\104\0\6\115\116\114\105\110\103\4\98\121\116\101\113\89\66\99\89\90\122\109\0\5\116\97\98\108\101\6\99\111\110\99\97\116\90\72\99\72\75\98\119\89\0\5\116\97\98\108\101\6\105\110\115\101\114\116\106\81\89\85\101\83\70\85\5";end end end end end e=(e*721)%36944 end d(_);local e={};for n=0x0,0xff do local l=h.SXGKIqn_(n);e[n]=l;e[l]=n;end local function f(n)return e[n];end local o=(function(_,d)local m,l=0x01,0x10 local n={{},{},{}}local t=-0x01 local e=0x01 local b=_ while true do n[0x03][h.YTpS_fch(d,e,(function()e=m+e return e-0x01 end)())]=(function()t=t+0x01 return t end)()if t==(0x0f)then t=""l=0x000 break end end local t=#d while e<t+0x01 do n[0x02][l]=h.YTpS_fch(d,e,(function()e=m+e return e-0x01 end)())l=l+0x01 if l%0x02==0x00 then l=0x00 h.jQYUeSFU(n[0x01],(f((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+b)%0x100)));b=_+b;end end return h.ZHcHKbwY(n[0x01])end);d(o(182,"QZ=A/kN8s,tl}CS{/{"));d(o(161,"teio4-NCw_%r#T1g-g#4_mgc4T%o*C-g-re%w%1e4oC11NoC_-e_-NTNewi1w1-w%%dCCeTR9_N_##i-%rgC-g%er#eg1_4%%a74N_roh%-TT%ew_N1A4i4#reCTTTo%_kg44#4_e,NoT-iowC1g-C_43o-_%roMwgCNT_%eg4NNr_r-CrTioi%4gri#_1keC4T1eT_iT-1N4TeoN4Tii%we1gor%Tg_-_#ie%wor#4rwrfC-1__ggeXCii.w11r-rr-eCoCT%eoCC144Lwr=goT-gr1_*T_4R%%Mw4C#TiowhTNe_w!wg1Tw4gNN#%TeF_wgwiT_T%Nv_T4i1_ege41%4lwNZrCe1wiT4iw%eT----Lr4wi#1i1_C1g1grTe-CN#NiCw1g_4i_g14N4%ogTNiC1Tg%T3-NNrNeCC1Te4%C-T%4L#eio4gN1#1_wg_4groewNw#1ik_41ri4wg7#ggN7i#CT1oor_w)w4N#ia_-#ro4i_gB-1r41eNN_Tri1i%1%4greeVCi%rawCN#ee#%eQ1o1-#"));local e=(-10626+(function()local d,l=0,1;(function(l,e,n,t)e(t(e,e,l,l),n(e,n,n,n),e(l,e,l,t),n(n,l,e,t))end)(function(b,n,e,t)if d>318 then return e end d=d+1 l=(l-457)%15728 if(l%1426)<=713 then return e else return n(e(n,b,t,e),t(n,e,b,b),e(e,n and e,e,b),b(n,t,e and t,n))end return e(n(e,e,n,e),t(n,e,n,e),n(e,e,n,n),n(n,e,n,t and b)and t(n,b,t,b))end,function(n,t,e,b)if d>141 then return e end d=d+1 l=(l*734)%25475 if(l%1132)>=566 then l=(l-935)%11436 return t(t(e,n and b,e,n),n(e,e,t,e)and b(n,e,e,e),e(e,n and e,t and n,t),e(n,n,e,b)and n(n,t,t,e))else return t end return t end,function(n,t,e,b)if d>341 then return t end d=d+1 l=(l-351)%15185 if(l%1480)>740 then l=(l-600)%36260 return e(b(e,t,e,t),e(b,e,n,n)and e(b,t,n,e),b(e,t,n,t),e(t,t,e,n)and n(b,n,e,n))else return n end return n end,function(n,t,b,e)if d>445 then return n end d=d+1 l=(l-765)%18647 if(l%464)<=232 then return t else return t(e(n,t,t and e,b),b(n,t,t,n),t(n,n,b and e,e and e),b(b,n,e,e))end return t(e(n and b,e,n,b),n(b,e,t,e),b(b,t and t,b and n,e),e(t,n and n,t,n and e))end)return l;end)())local f=h._yEKRtwD or h.wa_EfFAG;local be=(getfenv)or(function()return _ENV end);local t=2;local y=1;local _=4;local d=3;local function de(c,...)local a=o(e,"h0{(b,-8)mR_Qe!60_R!),,Q(-BR!{_Q)6--(e-{,R(-6!80bQ0!6,QQ!Q!8_{)6-be8_()b,_({,8b6{_68Q__,0b6(Q0m)-6R8)_-e!_0,!eQmm(-(e8RQ)(,R(0r)e6e&Qe-,b00{!mQW!R!{_!)),)(eR{m6b6{-6e{)0(!_QQ,w-eb8{060)(_08{,_e6&-e6_()6,8{Q0beQ_{b,8((Q0!!m8)8Q8,bQ{{e!Q8mQ(?(e60m)-ebb0!60Q)m6eeR!m0-JebRm)/,8{!4,eQ_()R-{(ei6!-_e!(Q!R88R,!Q)RR8,bQ{((eb(Pe!jQRm{b-,n{-6eQ6R,:660_Qm(-RR6)8,)(b0(ee_6)8-,(m0,!m,-,Rs(eR_0e!Q)Rm){b,{8_{Q_R,)_b6!,Qbee_m)R--!60Q!-Q8RC-(b,ej!!enRb)0,(eR>,e8,68),{!b00e8__)m,e(8OR!E8Q{_WQe)R6)-R)mm)b(,0!7be_R8)(,((-m_)mb)066-b0pQeQQVmb8(680b6bQ!,(86,b{06eQe,e)),({8_me)_Q)96-e(R(8R,0-_-!bb{0!mQmR-JR!-_8)!-,),)0-7{RsQebb8{(6bQ_R{_!Q)m_8=(-06)b--(0T)e6f{6QQ,m68_,8{8!_e8_m)),)Q__88)b6{-bb(m06R{Qem)-Q6!{C60eQ,R8R,-e66Re-_88!-0(_.b8),R{,6Qe(!e6(_em?8Rb{t_6bedme86,!_6m6-Qb(0R(6(80,e8_-m8,e(80Q6b,)(ey,eQ_(e-enmm8(b6{_6__!_88_-b(f0{!0_0{bDme0R)86R(mQ--bb0!!!)9){8(,!0!l{Q__(8Q6Cemme8bb_-,-)(!ve!8_QR08,(_{,60Q!Rb-Nb,(06_e8R80)6{Q,mQ8(m()b-8(eR8)b,b{_q{(_{mR8RQRb){bb__m!-)(60-(R{,66e8-m){8v!!0(!_Qm)_{{em_!)-,e(b,{,b0R6{_{R()!({(,Zme!m_))-R({R,mb,{{m=g(m0R6RQ0,(8-,w0_6R)-R68e-0{(3,!(-8)Q-bb{SbmR_mme-0e8_f)b,_({,bb,(VmM-,(Q_(e(-_b_,6)80!i0Q_R{8mR6m8b,0mn(!,Qmmm-8bB6!o,Q_(Q0m!mQIm8_-_mmP-(00i-!Q,N{_6eebR_e-Q{Rb8(b(_-R,-((R00(,{!l,e_m8)J,,{)6(!_QT)!-R(R0eQmQ0m(-Rb{{{QQe-Re){!)e,m,-Qb(,_--(Qi!m-_b)60_6R0-!0__m({,(!{QRRe,R8)b,00!_e-Qbm0m6yQ8!{e!_6)--mb(vQ)q-Q{e1be_6-6{e(m)8D,0{0!,Q__R8!,){_*me)m_mb-)(e086{Q){Qab!b_0)),6)08{,ee_!,!{_()_,(({me)ibR{06){0x_!R_mm)-b(!{{e0Qem!8R,-__m!-)(60-(-({&0e__8)m-_((Q,Q-Q)m880em_8)-,e(b,!,80_:be _{)0,0QbR080b)06()(-y_m_mRm!-{e)_)),,Q((,n,T{b6(Q_R6-{bQ{66!80b60!6,QQ60!mQ8)m06(!{{!-,Q(_Hm!s_8emQR_,---((bjQeb_(0!6_Q_R{8mm,m,,6(80)!)_!({0-e6_-)eReRm8),{{!4A!{RR(QbQ((4-!b_({8c8ebR_){Q,m6-)b{{)qMe,R(86b6QZRQ-ebb0_,6()0{eQ-!m)-Q()76!,8),8-RbQ{{66){RQ)rb){__!-ebR0R60Q)6{e8Q()mb-(8{{)0,6{!J,eQ6-!_QeRb80b8{466-QbR0m6:Q8!be!_)))b)({0,!b,8(,ybe__{Qee,Rm-6,m{,y{e)b{{0!6Q-me_8_e)8,RbbAQe{_-)!ob!!_0)),68R8-,80Q6be,R,,m-({!I)e8R0){-R(eT6!___m!u(ee_w)8,!8e)0b,{em{8m(60-!enm0(!{__),-Rb0Q,!bQ))Q{0?.6R!_e-,ePQ6__mmv-8)0-8{(!(!eQ,R0-_(_!eQQ!)_()e-,680x6!8QR88m,-{(6E)6(!bR!_Q{mm_8RQm{0,Ne006(808_8(b60m!m8_,6{m{e0)6{QR,Q,,-(!0!Qe!__)),,!_QR!8_,)Q-{6,0!!)Qm,08_,({66mQm,_)-,)!37!ee_8)80QQ_R,8)b6{-b_(,0)!8,R,058e!_,eG_{))(0(bn!!)_{m{8,b0!m6(Q_R880b06(e{!!_mm(-_6e0-:b){Re86,Q{m6-m,bb0660Q)m6QR_,)m-)(8RRmQ,8{!P,bb{86!e0R_bm0,!Q^8eb_b){-,(RQQ!{_0m0-6r^0R!gQ6m(-eba0!!e-sb0L!!,_Qm8-Rb00)6NQRme8bb_)m,R(eMQ86,6{Qt(eR0e68QnmR)A,){e6_e8R80)6,Q,mQ8(m{m,-Q(6!e!{Q){QbRem_+)8Q-Rm)s,({eQ_m8-!))b!(_:!e,__)m-8b{0)RRQ0)68,>8{0!8eb-(beb!{!6,mb)R)bb6{!ebm!mR))-Q{!01!!868,-6(R0m_{m!m)8e,,!,e,e)R{8m0)0,6Q!{_n)!-m6me,_0)-,)(-e-Re)b,_({00!o_8)!888=0(!RQ0mR-6b-0eg-e0R{8R,V{)6!e,RQR(-!(0Pme6_8)e-8(_{b68Q mR-!bm0Q6(QRR0),b6{86ee8R_){,m(N06e!_,)Q-((R0(!)_6m)-ebb0_6(QmR088b!b,6Qe(RR){,){6s-!0_b)_-{(R0b!8_!m,e(Rb)8,-QmR-8-be{bb(b-0e6>m!m(8mee6!)R-0()88,R(04be!8Qb)06(m66!Q8R)R-(b,046b_)R{88bI{b!QQ6R,){bR{RE8m)Rb)8,Q6,6-!(QL)_,6biS!ReR)R=8Qb-0-6_)!R)8{bR{!Q0e0R,8),{()Q_!5R_)R--6!Cy!QQ0)e-_(!e!6(e(m-&e!e_Rm0-)R_),b!{)^!!-__)m-,(,R,8Q,({R=0!2R6)-,eb-(6!{_mmu-_(!0,!Qe,Rm80bm0668QeRb8_8{b{c e)R!)-,Q(,CR6(e()6-m(e08!_Q{mm8S,80!6-QQR-8R,0{)66e_Re)b,_({Wm!{_8)!8b(Q0(!RQ{m)87b-0e0bQ_R{8m,0{86!e,_y)(,R(05m!m_-)e-bR8)0bR{biR!{_8),-0(0R{_Qb6{-6e(Q066-QmR(b0oe!b6!Qb_0(6b6{)qRe,_m8e-8(Qk,!m_0mb-Rb876!6QQ,e-mbQ{0_RR8me88bQF8!!m_RQ)),8(0^ee6Q0)m8b(_L!!Q__,e8{(e{-6!Q-RR(!,m{Q2meeR,8!60Q!m!8,bQ-_-!b,0)Q-__R0n,e6_{)m-Im!-6,{{0m(-Rb00)!6Q!me8bb_(b{eeCR88!,-{Qj(eRQ(R(,6(8Ce!)__m{-m-={Y!!Q-mQ8bbR{b6)!0Rm8e,8{_tbem_Y)8,!(_}Q!b_Rmb-)(60-!e!0m_8{bm{o68e&R,8Q,Q{RJ0e)_n)-,!(b _k{_mmP-8(60,!QQ(m680b)0668e8Rb8_,{8t-,b_10!RQ!Rm8(bb0em48-(e0b!_08ZQe,_m-8-((Q0)!!Rb)e80bQ0-!8QI((:e!*_8)!QQme)Eb6Q{R(-6b-0e(!bla6!mR{)Q-6bR006-Q!({76e6_-)eQ8RR)v,8{,6R!{b,0e6(QRR0)0b6{-6ee,_,){,m(?b!b({me6Q)RQ)8,0{{6_-!b_0_6{Qm6T!(R6m!-0b,0e){,6{6#-ee6!D+Q6Rm8m,,{,m-8bb(0R600x0b!(R!m{-R(_xe)0-{{!s,eQ6-6{Q{R-8-b_0>Z)QQ_-8!60Q_m!8,bQ)R,_(!we)l-0{eUbe_6!6)Q(m)8R(,{)6b!(R-)R6.e_me8bb_-)-{(!i_Qb_!m!8-b!6b6:Q)R{80(({0e,e,R0)R-0Q-R,8(bR{0(_(8l8!6_,)!8-(!{{)8,!(,FQ!(Q_m0-)(60-6)Qbm_8{bm{^68Q!R_m8,({Rw0eQR6)8,e(, _!-6emK-8(!0m!QQbmR8,)Q066-Qe_b8_,({m0{!!R!),,Q(mTR!0_)R6_((e0b!_Q{mm80b8(^U_QQR,8R,({)66e-Reme,_({am!{_8m>-,,Q{)!RQ0m)-6b-{b6b!__08m,P{86!e,_,)(8R(e%)e6_-)e-bb(0{6_QRm88%b,{Y6(QRR08)b6{-6eebRe){,_(P{8c,_,)Q-((R00!e_6R)8mbb0e6{QQRM88b!{,{6e(RR)0,R{6X8ee_bR_-{(m0W!)_!m,-Qb!0R60Q)m6mfbe{b6_e(Rm)i,8b?0{eQ_b)R-b()46!-eeme-_b(0m60Q8m68,,!({6RebR))0,-{eFbe_Q6)m-0(800!,_!m()Rbb0)6>Q-m!8bb6{{0meeR886,,{eG(e6_0)!R)(-0Y!b__m{-Rb*0)!!Q,_R8(bR{06)Q6R-8e,b,!%{eR_i)R,!(-LQ!(eRm0-)(608!eQbm_8-bm{M68Q6Rm8Q,({R-)(m0Q!_,!(_>_!{_me)e__{),(({)o!8{,{066-Qe0F!R_()e8(b_{L!!QRmR:_(e_))6--R,)),6({vQRR8-be-8{e0RR)_)m08((!{{!-epR,-!,{0R6ee(_ 8),)(,Q-e{_,)R{((e0b!{Q))6{eb)086,Q(R08Q,{!,66QmR0),0){)6QQ6Rm)6{{(8w{!0_e,,-0(m086-_Rme8-br0!6)Q)-88Qbe()6)eQR,)e,-6-Y_!mR6me-8()T!)0,){6&-ee_e)_-{(m{{08_!m,-Qb-0R60Q)_0)6be{,6_e(Rm)O,8b!06eQ_b)R-{()00!-Q6R!-_b,0m6bQ8m!8,bQbq6Re,R))o,-{eHbe___)m-0(80{!,_Qm(-R,R0)!6Q-me8bbe{{6m0RR88!,,{e=(e__0))86(-Be!b_Qm{-mbj0_!!Q,mQ8b,b{06)Q60{!Q_,)68,be{{6MQQmQAe{6_Rm0-)R8)R-0(b3!RQ8)b6-m{60Q!6_-mQ-Rb){(6m)_R{8/,-!)N{Q)_,bbb0(0O(!8Rem0-m{!07R)R,)Q8{b.0!6m)m8,-6,b{Q_QRQR68m, !6!!e!_#mb,R(!0-e__e,,b-{_6-_0_0-)(-0{!!QbmQ8,0b60Q0m)-6)!m0-)(_!me!Qb{)Z{e,RQ)(Q0m{8,bb_-)e-b(_0{60Qtm8-!,8,c6(QRR08mb6{-6e!-Q0){,R(?#_e!_,)Q)((!00!m_6m8-eb80_FbQQR/8Rb!{86Qe(RR)08;{6W8ee_8)_-{(m0z6R_!m,-Qb(0R6(Q)m68mbe{b6_e(Rm)0,8{!{,eQ_()R-{()T6!-Q0mb-_b{0R6RQ8m!8,_)m{,_(,0_6(Q)m-8{b{_(mE-u(84!{e(fH8eR))8e-(Q8R08bb_{{-?(00b!(,-)bn(eR_06Ie(RR8e,86,Q0m)_{8)-,6(j(eQ_!)m-e(00_6g_mme-,b)0!6_Q(R().000eYje,-!-6,Q(m1be)_m)8{-k608e!_QR{{!{866_,Q6mm80,,!)6)QQm68m,66{y8e{_0)e{,{M+e!{_6)R,(b{08!8Q,m88((,E8!b_08!b{,8(86R8sb80!6,QQR_8R,0{)00gRRe)b,_((1m!o_8RT8R(Q0b!RQbm)-6b-(e6eQ_R(8m,0{8d5e,_!)6,R(b5)!(_-)e-b(_{R!mQ0m880b,0Q6(QRRe8)b6{-6eebRe){,m()F8e!_,)e-((_00!)e6m--ebb0Q6{QmRU8_b!{,6Qeb6_)0,){6-!,0{)6_e,8((60-(z6-!(80)0,R(QF8!_R6mm-!(80_!(Q-mQ8mb0{06!)6m_8!,(!Q!eeR_8){,-(8W,Rb)em,,Q(R{xRQ)(8,8m(e!06_Q,me)00b{b6)Q_R,)_0!((6!ee_m,0(_(Q0Q!(8-m_--b,e66bebm8+!!___m{-m)))_-{(,!(e)_!{{6QQ6R-8e__)Q-6(!_0m0,!(,sQb6{m6{QQ_{)R,6{eUmembm{ 68Q!R,)b,({RL0!R!()-,e(bt6!{_mmB8m,(0,!eQ(me80b)060-e-Rb8Q,{{RAEemR!m88{((Ve!0_m)6--(e0b6mQ{mR8FbR0!6,QQR(),,0{)66e-Re)-,_({0(!V_8)!--(Q0b!RQ0_)-6b-0e6,Q_R{8m-b{86!e,Re)R,R(0X){0{_q0e)RR)M0_Q0m!-!b,0Qb-{60,___!m)-{e,!S){,m(E,Rb0{86,e(R!(0,0({_-Q6Rm)6,(!m08e)_8mm0Q(m0m6(8)Rb8-b00,66Q8RQ(7,u{Q_,Re_,8Q,Rb;_6_!Q{)-0_b,3!6{Qem(886Qeb)_--()u6!-006ee6R!8!60Q6m!8,bQ-8-6b(Wm6(_6mQ8{eQ_-)m-;(88,b-{m6)-_b80)!6Q-!He,_m),,!(QR)){,,{Q;({!0-OVe(()+e!b__m{-mb1,,{!Q-!08(bR{0->b(0R!eQ8-,(0Z){{!)e,-(8(bQ{!6meeR0)_-P{m9ee,_))!-_((0(6Y)0)e8Zb,e!e6QQRm8bb){m68m-)0-8{(6{MQe-R!m{{,(,umeQ_-mQ{6bbo6!!QR-{be((!6_ee{_{8,!Q!(mm8Sb8)--mbV0(!e)_,8{!b-A!68Q6m8-_bm{,_QQ)R_)&0m((6m!-8,,,{)(e68Re_e-6,(e-_-)(,R(08bb!0860e8R6)b,{{!6!-6,m0Q6(QR6be_Q0)6-eb)Q_!!Q)m0-_b(0mRQQ)R)8_,8()_8-!b_0_6{Qm!)!_Q{m,b(()0!){-){6f-eeH86BeDme,!,-({6!e{RQ8e,{(Q:)!,__{,66e{Rm)fQ!)6-!,:_bmb-0()36{e{{j)_!R8)_--(WT0eRbe{e6Re0R)e{QR)!8-b6086_R8RQ88!-Q(m(-Rb0,R-b(R00!(_m,(6Re(R88!,,),-)be_0)),6(-seF(__m{-m,{b0!!Q,mQ8mbR{06)!6R88e,b{_}{emQ0)88O(!vQ!,_RR(-)(60-!ee-m_8{bm{{68eKR,mQ-({RD0e)R6)-,6(b0e6e_mm{-8be0,!QQ(mR8mb){{6-QeRb)1,{,m0ee8_0),-=((08!0!)Q0--bW0b6(Q{mQ8+88(,6,Q6R()e,0(Q66<-_m)b,!({iR!H_!)!m,b00(!eQ0me-6b60e6b!{R{8m,D{R6!e-RQm,80(07)e6Q{)e-b(_{b0{Q*m)-!b_0Q6(QRQ0)eb6{86ee,R_mj,mb{=!e!_))Q-e(R00!)_6m8-eb,0_6,QmRP88b!(-6Qe(RR)0,)(0k-eeQb)_-{(m00!8_6m,8!bQ0R60Q)R_8-be{bce6_Rm)0,8(bz,eQ_(RR8(()0r!-_!mb8mb{{_6(Q8R08,,8{(6Re0R)m,,-{!cbe!_{)m-/(8{m!,_Qm(-Rb00R!6Q-_,8bb_{{6RezR)8!-8(0K(eR_0m),6(-ne!b&,m{-mb;0)!!Q-mQ88)!{06)Q6_(8e,,{_S{6m_k)8,!(-5Q!(_Rm,-)(60-!!Q!m_8{bm)Q--{6?m!6Q8mQ-Rb-0-)8-0(b/_!{{^60ebR(0-6(Q(mR80mkm(-R(e!_!^Q-{R{0e8R!),QbR88!,0{_Qmm,-Q)bbQ(,Aee,Rm)8-(6R2-!m_!,880(8{b_(meR(-_,({86-mQR60(!RQ0m)-6b!0e6bQ__bRe,V{86!e-RQ)(,Rb(^me6_8)e--(_0{!m!vR{-!b-0Q6bQRRb8)-0(R6ee8R_)-,m(US8e!e0)Q-b(R0b!)_6m--eb80_6{QmRL88,4{,6Q!-RR)0,)(so-e!_b)_){(m07!8_6m,-Qb(me60Q)m68-)b{b6_e{RR)?,8{!0868_()R-0,!v6!-_eR-8(b{0m6#!Rm!8,bQbm08e0R)86,Q{eo,e__R)m-b8_.!!,_Qmm-Rb{0)6(jRme8bb_{m6me0R88!8,{QM(eR_{)),6(-066___m{-m8,08!!Q,R!m-bR{{6)emR-8e,bb_wQem_0)8,6(,(L!(QQm8-)b{0-(0Qbm_8{bm{{68Q6R,86,({Ro0e)_!)-,e(b7_!{__mH-8,m0,!QQ(m_80bR060-!(Rb8Q,{{m2T!!R!),-{((te!0_))680(ebb{_Q{mQ8X))0!0,QQe()-,0{_666{Re)6,_-{0e!r_R)!8R(Qbb!R60m_-6bm0e%eQ__68m)^({6!e)RQQ-,R(ef)D6QQ)e-8(_(_!mQ0m8m!b60Q6-QRee8),U{-6eeRR_)-,m(oO8!0_,_QRb(R0,!)6{m-8-bbb_LQQmRb888!{,{-e(eRm_,)((H-0-_b_R-{bm0{!8Q0m,)8b(0!60Q)R-8-,0{b6_e{RQ).)8b)S,!N_(_e-0(md60-e{mb-6b{{Q6fe,m!R,-m{(6!e0eb86,6{e0bp-_{)Q-o,6M!!m_QQ(8(b00_!66)me8eb_{{iRelR_8!,,{QzReR!0R0,6(R=e%m__Q(-m8J((!!QmmQR0bRbQ6)66_68e,){_2bemQ-)8)!()wQ!8_RQR-)-l0-0e!0m_8-bm,868e8R,RQ,b{RE,e)Q!)---(b._6__mm,-8(60,!QQ(RQ8Qb){,6-!,Rb8_,{{m0{e8_(),-{((w_!0Q)Q8--b00b?QQ{m!8.,8,Q6,Q6R()R,0{Q66e-_{)b,Q({aQ!._m)!),,,0(!QQ0m)-6bR0e6be!R{8e,n{86!emRQ_(-!(0lQe6e_)e){(_b{!6QLm_-!,80Q#bQRe0))b6{R6eT!R_)),m-g{be!_m)Q--(R((!)_6m6-eb-0_6-QmR088-!{66Qe,RR){,)-Ru-!6QQ)_--(m08!8_!m,8!,{0R6-Q)Q08-be{b6_ebRm){,8((c,e!_(RR8e()0{!-_6mb8)b{0m6_Q8R(8,bQ{(6Qe0e)mQ,-({Zb0Q_{Q)-z(m0{!,Q{m(8{b00)!6e-R68b,s{{(0eqRe8!,,bbc(ee_0)e,6()pe>b_Qm{-eb/0m!!e{mQ8(-c{06!Q6R-8e,-{_({!__j)e,!8-kQ{,_Rm(-Q(60e!eQ,m_8{bm(#66Q!R_8Q)_{Ra)e)R6m_,e()j_!)_mm{-8,!{ !QQ)mR8{b),R6-e6Re8_,m{m(ee8R!),-!(_oR!m_)_0--(e0b!_Qbmm8,b8{-6,Q!R(mR-b{)j,e-_{)b-)({Om!-_8m--,(Q0(!QQ0Q))Qb-{,6blQR{R?,K{mn{e,_,)(-0(0%)e6Q-m6-bb(0{{0Q1Rd-!b,{e6(e^R0)#b6{)6e6bR!){-5(XfQe!Q{)Q-(b!0060_6m--eb-0_{{e-Rf)>b!--6Q!{RR)(,Q{604ee_b)_-{(m{:6m_!m!-Q8_0R6_Q)m686be{_6_e_Rm){,8b!0beQ__)R--()0Q!-_eR,-_bQ0m6iQ8RT8,8Q(,6Re_R)Qk,--_>bee_-)m-_(80(!,_Qm(8Rbm0)6mQ-e,8b,-{{6meQR8)-,,(-N(eQ_0R)-,(-0-!b_Qm{Rbb1{mP{Q,R88(b6{06)Q6_))Q,b(8q{6__B)8,!(,Ie!(Q(m08b(60)!e!bRQ8{,({XWFQ!_{8Q,((rl0!bR6)-,e(-s_0{e-mD8((!,-!Q.(mR8(bQ063(QeRR8_,{{m0ne6R!m0,Q-_&R!!_))6-R(e0!!_Q!mm8{b8(!6eQQR!8R,{{)(Re-_6m-,_(6km6b_8)!-,b!{{!RQ6m)m0b-0e6bQ_RQ8m,_{8LQe,R!)(8R((s)!__-m)-bb)0{!mQ-m88Qb,0Q6(QQR0R)-Q{-^_eb!Q){8((Hsm!{_,m_-((!00!)_6R-86bb{m6{/0Ry)-b!{,0-e(_-)0--{69)eeebm(-{b-0:6{_!R{-Qb({e60e8m68-be{-6_a{Qb)/--{!b-eQ!8)R-((Qc66-_em--_b{0m7Pemm!)bbQ,_6R!0R)86-6{e00e_Q0)m-{(8{!6-_QR0-RbQ0)6QQ-me)-b_({6me:R8)z,,,QM,eRQ0))Rp(-(R!b_em--m,00860Q,mQ8(,R((6)e6R-_,,b(Qk{emQe)8-Q(,0Q!(_Qm0))bb0-6QQbR-8{,-{T68!{R,)e,({RX0eRR6_--)(b0Q!{6Rmdme(!086dQ(RQ80,0066-Qe_bmQ,{(R*u?6R!m8,Q(({%!0Q8)688(e0-!_Q{R88zb80!6-QQR(8R");local n=0;h.FGKElYbE(function()h.sSzqofJR()n=n+1 end)local function e(l,e)if e then return n end;n=l+n;end local l,n,o=m(0,m,e,a,h.qYBcYZzm);local function b()local n,l=h.qYBcYZzm(a,e(1,3),e(5,6)+2);e(2);return(l*256)+n;end;local s=true;local s=0 local function p()local t=n();local e=n();local d=1;local t=(l(e,1,20)*(2^32))+t;local n=l(e,21,31);local e=((-1)^l(e,32));if(n==0)then if(t==s)then return e*0;else n=1;d=0;end;elseif(n==2047)then return(t==0)and(e*(1/0))or(e*(0/0));end;return h.BUYmxXnR(e,n-1023)*(d+(t/(2^52)));end;local u=n;local function k(n)local l;if(not n)then n=u();if(n==0)then return'';end;end;l=h.YTpS_fch(a,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+s),#l do e=e..h.YTpS_fch(l,n,n)end return e;end;local s=#h._gl_TnCd(r('\49.\48'))~=1 local e=n;local function le(...)return{...},h.SpXLDtry('#',...)end local function ne()local r={};local f={};local e={};local a={r,f,nil,e};local e=n()local m={}for t=1,e do local l=o();local n;if(l==3)then n=(o()~=#{});elseif(l==2)then local e=p();if s and h.qzXh_Rxx(h._gl_TnCd(e),'.(\48+)$')then e=h.LJYEAguF(e);end n=e;elseif(l==1)then n=k();end;m[t]=n;end;a[3]=o();for e=1,n()do f[e-(#{1})]=ne();end;for h=1,n()do local e=o();if(l(e,1,1)==0)then local f=l(e,2,3);local o=l(e,4,6);local e={b(),b(),nil,nil};if(f==0)then e[d]=b();e[_]=b();elseif(f==#{1})then e[d]=n();elseif(f==c[2])then e[d]=n()-(2^16)elseif(f==c[3])then e[d]=n()-(2^16)e[_]=b();end;if(l(o,1,1)==1)then e[t]=m[e[t]]end if(l(o,2,2)==1)then e[d]=m[e[d]]end if(l(o,3,3)==1)then e[_]=m[e[_]]end r[h]=e;end end;return a;end;local function te(l,n,e)local t=n;local t=e;return r(h.qzXh_Rxx(h.qzXh_Rxx(({h.FGKElYbE(l)})[2],n),e))end local function g(j,p,r)local function te(...)local b,k,s,ne,a,n,o,ee,c,z,u,l;local e=0;while-1<e do if 2<e then if 4<e then if e>3 then repeat if 5~=e then e=-2;break;end;l=m(7);until true;else l=m(7);end else if e>2 then for n=45,91 do if 4>e then ee={};c={...};break;end;z=h.SpXLDtry('#',...)-1;u={};break;end;else ee={};c={...};end end else if e>0 then if e>0 then repeat if e>1 then n=-41;o=-1;break;end;s=m(6,57,3,91,j);a=le ne=0;until true;else s=m(6,57,3,91,j);a=le ne=0;end else b=m(6,78,1,43,j);k=m(6,54,2,93,j);end end e=e+1;end;for e=0,z do if(e>=s)then ee[e-s]=c[e+1];else l[e]=c[e+1];end;end;local e=z-s+1 local e;local m;local function s(...)while true do end end while true do if n<-40 then n=n+42 end e=b[n];m=e[y];if 38>=m then if 19>m then if m<9 then if m>3 then if 6>m then if m~=4 then l[e[t]]();else l[e[t]]=g(k[e[d]],nil,r);end else if 7>m then l[e[t]]={};else if 6<m then for h=24,54 do if 8>m then local m,c,u,k,s;for h=0,6 do if h<=2 then if 1>h then l[e[t]]=r[e[d]];n=n+1;e=b[n];else if h<2 then l[e[t]]=r[e[d]];n=n+1;e=b[n];else m=e[t];c=l[e[d]];l[m+1]=c;l[m]=c[e[_]];n=n+1;e=b[n];end end else if 5<=h then if h>5 then l[e[t]]();else m=e[t]l[m]=l[m](f(l,m+1,o))n=n+1;e=b[n];end else if 3~=h then m=e[t]u,k=a(l[m](f(l,m+1,e[d])))o=k+m-1 s=0;for e=m,o do s=s+1;l[e]=u[s];end;n=n+1;e=b[n];else l(e[t],e[d]);n=n+1;e=b[n];end end end end break;end;local m,o;for r=0,6 do if 3>r then if r>=1 then if 2==r then m=e[t];o=l[e[d]];l[m+1]=o;l[m]=o[e[_]];n=n+1;e=b[n];else m=e[t]l[m]=l[m](f(l,m+1,e[d]))n=n+1;e=b[n];end else l[e[t]][e[d]]=l[e[_]];n=n+1;e=b[n];end else if 5<=r then if r~=3 then for h=30,76 do if r~=6 then m=e[t]l[m]=l[m](f(l,m+1,e[d]))n=n+1;e=b[n];break;end;m=e[t];o=l[e[d]];l[m+1]=o;l[m]=o[e[_]];break;end;else m=e[t];o=l[e[d]];l[m+1]=o;l[m]=o[e[_]];end else if 3<r then l(e[t],e[d]);n=n+1;e=b[n];else l(e[t],e[d]);n=n+1;e=b[n];end end end end break;end;else local m,c,u,k,s;for h=0,6 do if h<=2 then if 1>h then l[e[t]]=r[e[d]];n=n+1;e=b[n];else if h<2 then l[e[t]]=r[e[d]];n=n+1;e=b[n];else m=e[t];c=l[e[d]];l[m+1]=c;l[m]=c[e[_]];n=n+1;e=b[n];end end else if 5<=h then if h>5 then l[e[t]]();else m=e[t]l[m]=l[m](f(l,m+1,o))n=n+1;e=b[n];end else if 3~=h then m=e[t]u,k=a(l[m](f(l,m+1,e[d])))o=k+m-1 s=0;for e=m,o do s=s+1;l[e]=u[s];end;n=n+1;e=b[n];else l(e[t],e[d]);n=n+1;e=b[n];end end end end end end end else if m<=1 then if m>=-2 then for o=17,59 do if m~=1 then local n=e[t]l[n]=l[n](f(l,n+1,e[d]))break;end;local f,o;for m=0,3 do if m>=2 then if-2~=m then for _=21,92 do if m<3 then l(e[t],e[d]);n=n+1;e=b[n];break;end;f=e[t];o=l[f];for e=f+1,e[d]do h.jQYUeSFU(o,l[e])end;break;end;else l(e[t],e[d]);n=n+1;e=b[n];end else if-4<=m then repeat if 0<m then l[e[t]]={};n=n+1;e=b[n];break;end;l[e[t]][e[d]]=e[_];n=n+1;e=b[n];until true;else l[e[t]][e[d]]=e[_];n=n+1;e=b[n];end end end break;end;else local n=e[t]l[n]=l[n](f(l,n+1,e[d]))end else if m<3 then do return end;else local m,c,u,k,s;for h=0,6 do if 3<=h then if h<5 then if h>2 then repeat if h~=3 then l[e[t]]();n=n+1;e=b[n];break;end;m=e[t]l[m]=l[m](f(l,m+1,o))n=n+1;e=b[n];until true;else m=e[t]l[m]=l[m](f(l,m+1,o))n=n+1;e=b[n];end else if 6~=h then l[e[t]]=r[e[d]];n=n+1;e=b[n];else l[e[t]]();end end else if 0>=h then m=e[t];c=l[e[d]];l[m+1]=c;l[m]=c[e[_]];n=n+1;e=b[n];else if 1~=h then m=e[t
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "blue lock rivals nova hub",
+   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "Nova hub",
+   LoadingSubtitle = "by Nova",
+   Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "Big Hub"
+   },
+
+   Discord = {
+      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = true, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "Nova hub",
+      Subtitle = "Key System",
+      Note = "Get the key in discord", -- Use this to tell the user how to get a key
+      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"Novaisbest"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+
+Rayfield:Notify({
+   Title = "Made by nova!",
+   Content = "thanks for using the hub",
+   Duration = 6.5,
+   Image = 4483362458,
+})
+
+local Tab = Window:CreateTab("Styles", 4483362458) -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "CR7 STYLE (made by touka)",
+   Callback = function()
+   game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "Script loaded enjoy!",
+Text = "Script is beta wait for updates in Arbix Hub server !", 
+
+Button1 = "Yes",
+Button2 = "Cancel",
+Duration = 30 
+})
+while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/CR7/refs/heads/main/CR7.lua"))()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/84rU4mHU"))()
+wait()
+end
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "DON LORENZO STYLE (made by touka)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Styles/refs/heads/main/Zombie.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Tab1 = Window:CreateTab("Hubs", 4483362458) -- Title, Image
+
+local Button = Tab1:CreateButton({
+   Name = "Auto gk (made by touka)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Arbix--Hub/refs/heads/main/Blue!ock.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab1:CreateButton({
+   Name = "Visual beta (join visual group to be verified)",
+   Callback = function()
+   loadstring(game:HttpGet("https://rawscripts.net/raw/Blue-Lock:-Rivals-Lock-Best-Free-Script-27507"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab1:CreateButton({
+   Name = "Express hub (Key)",
+   Callback = function()
+   loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Best-Free-Universal-GUI-V6-27679"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Tab2 = Window:CreateTab("any style", 4483362458) -- Title, Image
+
+local Button = Tab2:CreateButton({
+   Name = "Get Any Style - Made By Touka (need reo style to work)",
+   Callback = function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Arbix-OP/refs/heads/main/SigmaSkibidiTOUKA.lua"))()
+   end,
+})
+
+local Tab3 = Window:CreateTab("Extras", 4483362458) -- Title, Image
+
+local Button = Tab3:CreateButton({
+   Name = "Mobile Keyboard",
+   Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/skripts/refs/heads/main/deltamobile-keyboard-kraxked",true))();
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "Infinite Yield",
+   Callback = function()
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "Infinite Jump",
+   Callback = function()
+        local InfiniteJumpEnabled = true
+game:GetService("UserInputService").JumpRequest:connect(function()
+	if InfiniteJumpEnabled then
+		game:GetService"Players".LocalPlayer.Character:FindFirstChildOfClass'Humanoid':ChangeState("Jumping")
+	end
+end)
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "more speed (dont spam)",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastebin.com/raw/Bqbsph7s"))()
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "inf stamina",
+   Callback = function()
+       local args = {
+    [1] = 0/0
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.StaminaService.RE.DecreaseStamina:FireServer(unpack(args))
+   end,
+})
+
+local Tab4 = Window:CreateTab("credits", 4483362458) -- Title, Image
+
+local Button = Tab4:CreateButton({
+   Name = "credits to touka",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab4:CreateButton({
+   Name = "credis to NoNamefound",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab4:CreateButton({
+   Name = "hub made by nova",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
