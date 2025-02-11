@@ -1,1 +1,193 @@
-([[This file was protected with MoonSec V3]]):gsub('.+', (function(a) _pltQobtBWDBG = a; end)); return(function(t,...)local s;local p;local l;local r;local d;local h;local e=24915;local n=0;local a={};while n<445 do n=n+1;while n<0x326 and e%0x1d58<0xeac do n=n+1 e=(e*183)%36821 local f=n+e if(e%0xc46)<0x623 then e=(e+0x1e7)%0xaa11 while n<0xda and e%0x15ac<0xad6 do n=n+1 e=(e*964)%20108 local p=n+e if(e%0x24b0)<0x1258 then e=(e-0x101)%0x7196 local e=78814 if not a[e]then a[e]=0x1 r=tonumber;end elseif e%2~=0 then e=(e-0xa7)%0x90d9 local e=82819 if not a[e]then a[e]=0x1 end else e=(e+0x160)%0x68f7 n=n+1 local e=88927 if not a[e]then a[e]=0x1 s=(not s)and _ENV or s;end end end elseif e%2~=0 then e=(e+0x189)%0xbb9a while n<0x65 and e%0x1014<0x80a do n=n+1 e=(e*902)%22293 local p=n+e if(e%0x38e2)>=0x1c71 then e=(e*0x7a)%0x62b7 local e=30658 if not a[e]then a[e]=0x1 d=string;end elseif e%2~=0 then e=(e+0x1a8)%0x66eb local e=82407 if not a[e]then a[e]=0x1 s=getfenv and getfenv();end else e=(e*0x33)%0x385 n=n+1 local e=88698 if not a[e]then a[e]=0x1 h={};end end end else e=(e-0x289)%0x1a34 n=n+1 while n<0x2e3 and e%0xd44<0x6a2 do n=n+1 e=(e-653)%22484 local f=n+e if(e%0x1784)>0xbc2 then e=(e-0x150)%0x5648 local e=44665 if not a[e]then a[e]=0x1 p=function(p)local e=0x01 local function a(n)e=e+n return p:sub(e-n,e-0x01)end while true do local n=a(0x01)if(n=="\5")then break end local e=d.byte(a(0x01))local e=a(e)if n=="\2"then e=h.y_SPsLZl(e)elseif n=="\3"then e=e~="\0"elseif n=="\6"then s[e]=function(e,n)return t(8,nil,t,n,e)end elseif n=="\4"then e=s[e]elseif n=="\0"then e=s[e][a(d.byte(a(0x01)))];end local n=a(0x08)h[n]=e end end end elseif e%2~=0 then e=(e+0x28d)%0x19dd local e=98146 if not a[e]then a[e]=0x1 end else e=(e*0x1fa)%0x4540 n=n+1 local e=68365 if not a[e]then a[e]=0x1 l="\4\8\116\111\110\117\109\98\101\114\121\95\83\80\115\76\90\108\0\6\115\116\114\105\110\103\4\99\104\97\114\79\102\108\84\104\90\86\81\0\6\115\116\114\105\110\103\3\115\117\98\67\80\104\86\79\67\74\111\0\6\115\116\114\105\110\103\4\98\121\116\101\113\74\112\74\83\79\88\105\0\5\116\97\98\108\101\6\99\111\110\99\97\116\109\82\106\112\106\71\103\97\0\5\116\97\98\108\101\6\105\110\115\101\114\116\119\88\66\77\88\107\89\69\5";end end end end end e=(e-208)%25876 end p(l);local n={};for e=0x0,0xff do local a=h.OflThZVQ(e);n[e]=a;n[a]=e;end local function f(e)return n[e];end local d=(function(t,d)local l,a=0x01,0x10 local n={{},{},{}}local s=-0x01 local e=0x01 local p=t while true do n[0x03][h.CPhVOCJo(d,e,(function()e=l+e return e-0x01 end)())]=(function()s=s+0x01 return s end)()if s==(0x0f)then s=""a=0x000 break end end local s=#d while e<s+0x01 do n[0x02][a]=h.CPhVOCJo(d,e,(function()e=l+e return e-0x01 end)())a=a+0x01 if a%0x02==0x00 then a=0x00 h.wXBMXkYE(n[0x01],(f((((n[0x03][n[0x02][0x00]]or 0x00)*0x10)+(n[0x03][n[0x02][0x01]]or 0x00)+p)%0x100)));p=t+p;end end return h.mRjpjGga(n[0x01])end);p(d(31,"IiEZx2n/;jUP)H-o-n"));p(d(84,"MU)B7sRh3V-DGQTw-GsThh)7GThU))GhU=UGQVhQ)GQwsVUsDGsT)TGsswGGhVV#)wQVV BGQBV_BTwV-UB-G3hUQQ3Q-7s)ws-Rs3Qs3s)-mGD#7U=s-Gw:-)DDR3U)DsRRXDssRVfVG3RBU7VVs7p3Gss7UwDwswD3R3hQUQQGhGGsQ3hG)VT33GBBGV33U3DDh_BhT))GT(wBVU7GwUVss&TV-37UTT-77VqU-Q7)TG33RsTh-hw7-BVTsV6BG_RhUR3B7w))DRswgR-ws-UDR0xG)DGUhs)GQTsDwTDVsD)wQvhVGRhUss7)QBR)B3T33-)VQB)GQGw7VD7Dw3-)7swRVD)-QU3-B7QR3TBQ_37*wUtG-ss)b3-Qw-UsD-R3 sDBRhUV-L7V)BDhhsUVGR%GD-Qsh-)3GshB)hDThQ1QTBswBGQ)3VGGhVV;BTTUV)77QwhDB-T-VVBQT-3BTr3T-h7sw3VQ7ha7-G)wZU-sBTNuDD7-VG7GRU+UGfRc-VDRR3UhGBh)UwQU7DUQ-3hsUDG3UU"));local e=(-2928+(function()local s,a=0,1;(function(e,n)e(e(e,n),e(n and e,n))end)(function(n,e)if s>362 then return n end s=s+1 a=(a-699)%12012 if(a%578)<=289 then return e else return e(n(e,e),n(n,e))end return n(e(e,e),e(e,e))end,function(e,n)if s>131 then return n end s=s+1 a=(a+645)%37678 if(a%400)>=200 then return n else return e(e(n,e)and n(n,n),n(e,n)and e(e,e))end return e(n(e and e,n),e(e,n)and e(n and e,e))end)return a;end)())local pe=(getfenv)or(function()return _ENV end);local f=h.ViMwGxbm or h.qLIw_qij;local l=4;local s=2;local z=1;local p=3;local function ae(b,...)local c=d(e,"EOpM;4#=?QHaw6FspFw#HQ?w#s4wM4O?sapQp#O6H=a6w#HM?=4a;#a6Qs?F#4;?pa4O#MMQO?>FFpHpa?QH=64aM6apH4=?4aMF?Q=Q;QFHOHsO6=aa4Q=F=?zpMMO=xOws4O;aO=sH66pFOpFa64#wQ6?O4#s?pFOpsH6KHw;HM446;pO?tpF?w;#ap4O4FawFaOF#6ww=Hp?6#4;aMas#sF6awMHaOaOOFOw;H=w66waFQQ=s#l4OMOtMsQ6OaHQw#;44;6pMXaF=#M4OpQhwFsO6OHOOwFwMa4Q?=I4?M;pMQM?;4QMwOs;a4MpFO;sw6Hw?QwMH4#;Qp?OpF6#F;sMpa4FO?4=OQOw4#=;6p6O8sMpOOFO4=s#=;4p?baM=MFO4sF6s46;HpMh#FQOHOFR?6#wOHF?r##4=MaHHa;=J4MM##6#;;?M4w4FF6;aHQ#M;#FMaM2wzsM6?a?HW=;44;QO6ssQF6?H6Qa=pW6O6ppg4F=HsH;?4p4MFsFHFH6=;4=MH?4=;4=M#Oww#QF?OH??O#6;=M#O=a46=apQF??p4;aO6O?F?wFH6Q==psOFaa=QH=6HOa?QH=?!wM#O6a4HNw?Qs?4#Qm=pwp#azF=w4HF?=#g_aw4aO?a#F4O=s=w=MM8MQO#sHwFaQpspas46?aaFO6MQa#==6#O;QOssaaQH;wwHM?Q#6TaMepHa;FawQap?a#;BswQa ?s=p44?GQ+#94;w=H??H=44dMMO#;w4OpOO#FF6wa=QMOOcO6=aHQ6wQ6OHwQp=H4?;#OHa?w46MHFQ;_=sQw6aqQMa6waQ6?O;6;H;OsOjcF_wO?H?M=O;4wMaQ?Q#w;sH3?;46;=6FjssMw?#HH)?;#w;pOFawH=6pH?4Ofas;6Oa;Q=w?wwa;?w#w#pwwa#Qp=44?Q6Q=pOMpM#p%FF=h4aM#OQswpMM=O=FQ6sa=H9?ps=6Fa6HB?Ma;HHQQ=;spFOa?Qa=FH6aM??#F4#MFOHFHFp62Ha?=>4FswaHFQOaQw4Qa=s#w;?pHHQQ4#s4pM44a#6;MppO?FwaFHFQpOM1M6QawQswsw#HwQ_pF4M;66=/?Fw6#H;;=uQs?wsapQ4aaw6HM?p=?;wpOO#sF6=w4aZOw<wFpw4H?FH6Fa6H?#?#QMsM;F466H6?F=#OpiO6?aaQFFs6Ma-Q??M4Q;=Oav4F4w6H6p4O=FawFaOF5F#aaHO?Q=O;6OwpOsOF#aFHw?=#MFO6HH=?H#6Q;Qw?Q4HMFpau=6=wQw;Q;=H4Q;MOFF6sp6paMQQ?e#p6paHQ?=a4FQ4?w#w4=Mpa(QQ=#4QMw=p=#4FM;O9(O=O4HM=OHs6p4MaOHsaw6wpMpM#s?6aaFF46Ma4#H=Q4s;4OaP=s#wF?pQ?=w#;MHO#6;asF=aFH;??p#;a;4wsx#F;w6H#=spHF;wFHH?6=(Q#H4?==u;;MdOQ??=p;FMOO;MQ;Mp;wowa6aHapwp4sp64a?FpFM64#;Qa=p4pstOFsasp=wH?Q5p4;wM;pOs;FMwQQFO6RHFMw#HQ6p6FaFQQ=6#6pwppOOFw#H#4MVOMs#;6p;WGs26Iaa;a=;#J;#6=:ss%wQaO?6pQ#8M=O=a4F+6:H_pO.aF=wHH6FM6;wwQF#=#;4aw4Hw?a#F4OQa=?#=;pw>ap?##Q;w=w?O4=;Op=BMHOHsHwHM#s4sM;p?s6=w=?;pp4W?M?M6pIkpwHasH}=s4#4HMaO4s66Qw??g?;#p;4pQO4waFOw;H4O#ps6wasHpwww6as;F4p#p4X6Hs{s;6wap?FpwOwspRpsQ6swM#O##?_YHpOOsj?FOaH4w;==<;Hp6hsHFFMaQH#MH=U4;MwOpFF?wwMHOM4#s;HM_NwH6#=#Mp6O_sMM?p4OOF;?paOQ=#F4QsOp#XcsIaFHwQ#p#4=Map4sMQ4wuax?ycOFww=HH?6a#awHp=F;H;/ps8H?a#a;F;OO;s=6HpmOpF?wHapH3?pOp;Qp=aasp63aQQp#aF66;aMQ#=QH4HpQO=MF?6pHFQO=;aHHw?p#;;wMHOw?w==4pM4O?MFMsp6OeFQwaa,QaOMsF6QawQs6G6;aF?wpF4Q;QOQQH?M#m;Mp#4p4H;4OaeQ664a4;pO+;F=M=Ow/p6?=#Hw?w#;;=pQw?aM6pw,Hp?aOH4hM%&;sMQp;wMHOps46?p;+wF=?;aHQF#F46Mwp;sH=F4s;pp4:?FawFaOQ;==4sM6p-KMMHMpplsa6=44##OasFFOOHOZs6FpaOQsM#4a;OMMBMH4Qha4Q6=H#ps=Mc3#sM6?H=Q4pw4#;;p;q6Fa=Fa4QMp=;wMp6uDQ6awaH4?4#a;Hpw6;?F=?4;M=OH;O;QM#nQs?6FaMMpp#s?6aaFF#sw6=awQp?M##s#pOOOFO?p#6=M=U#=sHa;Qa=H46;7=O=446MOHsH#=44?Ma#p#H4=p?zwsQ64Q4Ha?p#?;MOQ}#sH6Qa=Qs=a#H6Hw=H7?M##a4Qa=i4#;?pwl6F=wsHap=OMF66-aMs=F=644sQ4=Q#OM=OMQM=;4=MHO6nDFMFPFQ?w?;4pM4O?4F4Bp#I?sr66#6H;?pO#p=paF6FM6pH6QO=6##;pOaQH?;#!;Mp#4O#{;Mpp6w66wsMFp#^;F=wHswsM6?a=H=OwHHFpw4H??aH?4OM;O=sa66wGHMQ?#w;wpsOpp=6?aaQFQM=a;=pH*6Op6Ma#QQHp##;pp4J?sOwFapQ;?44H;OM;^MF#wQap?s=M44MwpssFFOw;HF?H#F4iMM4OsQ6wasHM?4#?;a;UMAs;6=aHFM?q#M;#May6Fs6Ma4w?=a4F;O;;OsFHwFabQ;=#HMMwMOO=F4waHaQ6=O4;M=OHeaFVw;H#?w#w;sMpO4sH6aaFHO?;#=;wp6O s46#aQQw?1#p;=p?pasM6Oa4Q==H46#OpM%#MFwwapQp=44?;#OFMOssw=H6?6?w4M#HOQpws;wpH???HM;F=:O;p=F4a6HM?M?M;Q#=1sppFHa?QF=F?4;;;OZHO66?aMQQ=Q?pMs#6V4O?6?HFQ;=;=wMH4MY5OM6sHQ?s#sQ=M4;Fsa6FO#H;?a#H;6MuO#s#JQ6FQs?##4##pappsOK;wMQH?O#{=Gp#haFwssw?Q4=w4a=MpOpsF=6HwOQ2=#4#;KOwqMFpw4a??a=p4OM;O=s666sKaL?##6;w;6Oppa6?FaH4?O#?;=##R6OM6MF#aw=w#M;ppaf?sswFwOHQ==46M6#pLMFHwQ6wQO=p4?M?pwsFs4w;H=Q;#64;MMO#sQFMas6pHp#?;spF4Os;OpaHw6?=#M;HpQpOFs6Ma4w?Q=4F;4p;;aFHsQafwM?#4Q;1OsM=F46MHaaFQ;4;MaOHpwFX6=H#aQa?;sM#O4gs6a6pHO?;=M;HMpODs;6#aQQwQO=F;4pF_asa6Oa;Q==H##;+p?{#Fswwa(Qp?4?=Mapp9OFsw=Hs?6?y4?M#OwswF=wpHQ??#a##MOO4s=66a6Hp?M?#4=pwOOsp64a?a;=F#O4pp=nFF66JaMQH=Q?w;app!QF?NaHFaO=;?=46O6U;FMsIHQaH#s?p4?O?ss6F6wH;ws#H=64MOMsH6Qw?Qs?w#4;?;w5FsM6;aaQH=F#W#Mp?VQFFwsaMQ4Q=4a4vMpd;FawH6;Q0=M4#;ap=ssF=w4ap?a#F4OM;ppsH6sw_H??##a;w;spZs46aaaHo?O#=;=pHOGsG6?a#QQ=w#O;p44paFa6MaOa3==#wM6pp4;F#wsHwQ)=p44M?paDMFOwQH=w;#64#MMO#OO6wwpHp?H#?;6pFMOoQ6=aFQ6?p#M;QpQBwsY6paaQ?=a4F;Mp;M=Fww6a#QMQp4Q#4OsT;M#w?ap?F=F4;M=OH,6pOwMHw?QH#;sMQO4s?6saFH4?;#6;HpsOcOMF6aQHO=s#M;4;=xa7^FOa;QF=H=f;gpM^#sa6=HsQH=4#pMaOFROF;F;HHQp=_4aM#OaswsswwH4?F#a4MMOO=s=6HOpHy?a##;QpwOOspN46aQa?##O#fp=OHF66p);Q#?p4w;=ppZ4F?6aaMQO=w4==;O63QFMw#a;?w=44pM6O?s66FFOap?==O;6M4OMsQ6Qawa??p#F;?paTFsM6;F=Q6=6#Q;M;p1Qp6wsa;F#=?#4MFpMA;F=wHa6Q4=M4sMQ4#ssFww4H?Qt#F4?M;p sH6sw1wMQ/#Q4;psO=s46aaaQF?F#;4OpHX6sv64a#wQ?Q4s;wp4p;FaOOaOQ#w?4H;?pru?F#wQHwQsaM44;pOaM?FOwsH=?H=s4_MaO#:M6wwOHpH4=;;aM=OOs46=6QQ6Qp#s;#M;IwM#6pa4Q??64s;OM._=s;w6a8QM=#=4Mwp?jpsOw?H6?FQO##M=p;s6FQwMHQ?Q#wH;MppOs?6aaFHM?;Q=#6p6OwsMspaQws=s#;Q#p?O?FFF^a;Q==H#6?OpMOpFQq#HsQs=44?M6OFraF;6MHH?s=:=M;sOQB=6swMH4H=#a#v;;O;8;6HF4HJ?M##4a;QKsqT64wpQa=F#O;;;;IHs?6jwOQ#=a4w4sp?^4s;waaQQO==4=MH=pm&sOw#HQ?w=O4p#4MasaFwwOwe?=Qa;6Mp#;s#F?awHp?p#4;?MaOMsOFpa=6;=6#s;Mp#p4Fw6aapHM=?46MF;OOpF=6=H6Qa=M4QMQOwOHFp6;H??a#F4MM;;=ip66wsHMHp#Q44psO;;#6?waQF??#;;=pHO6s46Mw4QQa#4s4pp45?dOwFaFQ;?#4HMspYpMswwQaH?s=644MaOasFsQw;a=?H#64<M4O#pQFJasap?4?;;a;;OOs#p?aHHF?N#Q;#pQNwss6=a4H?=aQ?;OM4S=FHwFa9HO=##QMwpOWp+46pHaQ6=O4sM=O6s6F.wHH#QH#w;sMpO=s?%awwHOQ4#=##p6;6sM6?THQwQO#p4Op?SaFFFOaQQ=?a46=HpMO?FQwwa#Qp?;4?;wOF2MF;F=Hs?6?74M;OOQss6swpa???=6;FMOO;sQ6HF6aa?M=?;Q;?PsM}64aHFw=F=;;;MpYHF66dwM6==Q#FMs4wk4sawaHFQ;=;#=MHps5mF4w#wQQF#s#MM4OQsas6wOa#QH#H#TMV;ws#6QawaO?a#44wpaO?sO6;a=QH?p#u4;p#O6Fw6Oapa4=64a4-pOO4F=w6H6Q*w?4#;6OwssFpw=H?aaQO4O;?O=O#66s=HM??aH;w;;OpsF6?aaQFQO#Q;=MFW6pH6MwaQQ=w#?;pM=W?sswFaMQ;Q=4sM6MMuMs=wQHs?s=p#HM?MvsFFOw;HQ?HQ6#=MMpasQs?asFa?4#HQwpFp=s;6aaHQ6?!=M;apQpOFsXwa4HF=a4F;Hp;OHFHFpa%Q4=#=Q;4OsO#F46QHaQO=O4;MwOHOMF&wMH#?a#w=sM#O4/F6a6HHO??#=;w=FOKRH6#aQQw=s#p44p6ha7;6OFFQ=QO46;jp4X#s6www4Qp==4?4ap#/OsQw=Hw?6=M4MM#pFsws#wpH4??#6;F#OpOs=sOa6aw?M#a;QpF#SspF6a?H4=F#O;;M=xsF6F=aM60=Q=;Mspp{6F?FlHFH?=;4QMHM6O4FM6wHQ?F#s44M4O?O?6F6QH;?=#H;sMC;M}Q6Q6;QsQF#4#}paOX;p6;6*QH?a#(;Mp#OQspwswHQ4ap4a4=pOk;s=wHwMQ3?a4#MaOwssFww4H??a#s4OM;O=YH66w*HM?##Q;wpsOps#6?aaQF?OQs;=pHI6sO6Ma#QQ=w4s;pp4OwFawFaOQ;=H4HM6p_4w;aMwHwQ;=p44M?#s#=44M!Vw?H=640MMO#;w;Op6J#6M6=asQ===46MHOaOOFQ6pa;pQ;OFs6pa4Fa6F6JHHQ;=a2HM#pMaM6?aFa/?)pp4wpQO;kpQOaHH#?wO644MMjHFHF:a;H4M4#O;Q6FFps#wQaMH4MRMa;aOaawspw=a=QF=i#ksO64Q==F46;:pM4H;F;;pMQp?Q4?MaOF4;;=MQOMs6F;=MHp??46;Mp=nQH?6AawQa?M=-saa6H=?M##;Q#F?;##;Qp=zQHs#O;?p=uHF6;=O;ssF64w;#pp.4F?OMppX4F;QFQsQO+Lp?w#HQ?w6=w#HQ??#FO?sf6MsQwaw;4F=H4s;6p;O;F;6HaaQ!?_4;;Mp4)FFpwFa=4;#w4aMwFOFFF=6PH=?==;;FsQs!FpHH?4Ha?O#444s;OzsCwsa4H=;##=MFpQOOa4HwQF##;.#O;6OwQF?=#;;=pH4W4O;OOQsFF?4s;wp4x?FaO4O#D?wHasHsQ##w;QpFHwQ#=p44M?#F#M44X=O#sw6p4lM=O#sQ6wp#2Mspw6;aM?OOs;6=f6OOFO64aH?F=FM#;=OFQ??p4F;Op;;Q4s;Op;upF;?aMw;5:pF4w?OMbpF4w;HH4;pw>sMMR=swFWa;Q;=F##ZQpOO)sOQ#aw?F?=pp_FF6WF6;Q#ap=A#Ksf6Oa;Q==H46;}#O;#FQ6;HsQp=4Qwa7Q{#p4?MTOQsa=j46M#OQsw;aMO)#Fw6FwpHM=6#4;Oa6as?M##;QMFussp64a?HQ=F#O;;;=O?F66:aMQ#=Q#?MsM;dsF?w6HFHP=;4=MHO6<pFMw#HQ?F#s4;M4M?fa6FwOH;?=#H4HMIp4+M6QaFQs?4#4;?pa}Fsa6;aHQH=6#b;?p#MQ+swsa4Q4=H4a;;pOM;FHwHavQ(=?4#M6Owpss4w4Ha?a=44OM4O=pHFOw2H#?#=Q;wMHOpp46QaaHO?O==;=Mw 6s}6?a#QQ=w#p;pp#C?s6F6aOQ;==#FM6pvSMs?s4HwQ_=p#MM?OasFgO6?H=?a#64OMMOssQFFwwHp??#?44pFOOs;6=6#Q6?O#M;QpQowFs6pw?Q?=a4F;Op; QFHw6aOQM=#4QM6OsVMF46Hw#?F=O4;;aOHs6Fg646p?Q#6;s;_O4s?6a6FaM?;#?;HpFOqsw6#waQ6=s#4;4MQZaFF6Oa;QH=H4F;Kp#j#FQwwHsQF=44?MaOFVOF#w=HHQM=y4MM#OHswF:wpa=?s#a;FMOOws=6Ha6Hua?##;QpwOqsp6#a?QsQp#O;;p=O=F66OaMQ#a;4wMsppo#F?waHFQO=;4=MHpO^TFMw#HQ6;#s4pM4?T#s4pMOO=wOQQ=wHp=;#6;wOsOOFa64awQFMw4sMQpawQFswOaH44;a4?;;O=wpw;wHHO?wMFO;OwO#A#6;wpHw;Q;a4Op?OMa?a.a#H=?ap=pMMpV?FaQ#QsQp?;4F;?pswaaMQa=w4H;;s^6=a#QQ=ww#HMQp#6Fa64aOQ;==HpaOQ;=Mp6pFpR?s=w44M?Oa#H47p45as6FOwpQw?;#&6ww=Hp?4#?46==OOs;6=aFQ6?I#M4?Mpfws06pa=Q?=a4F#OM4m=Faw6aOQM=Q4Q;FMaLpF?w?Hw?F=O4;M=pps6FOwMHQ?Q#w;sMpp4s?6aaFHO?;#Q;Hp6pwsM6#aQQ6=s#M;4p?;#FF6Oa;Q?=H46;_pMm#FQwwaMQp=44?Map4KOF;w=sp,OF;wM=6=F=:6sw#H4??#aa4Qp?O4w6HOQHZ?M##aOHo?M#p;?spwHH66MH4QFM?4;MQp=sFFFaFa;Q4#H4HpFO6ssF?awH?QOpF;#M4O#aaFOw;QFQi#Mu6M;-ssQ6Ma6H;?#p4;apOo4s4Q;aAQN#s44;=F#D=6FwQaO44#64OMap#s#F4wHHn?H=A;ws=O?s4Fwa?H?=6=O;#spOMs6wswQQs=w4F66wHHM?##Qa?QF=M4Q;apsO>FH6pHFpHO#s%6Ma#Haae4s;pp4iwFawFaOH#Qp4HMFp{ 4F#wQHwHs=644MQOassFOw4H=Qw=F4{M#O#sw6wasHp?4=A;aMpOOs46=aHQ6?T#=;#pHKwsM6pa4Q?=a#6;Op;D=FHw6apQM=#?FMwOsopF#w?Hw?F=O?sM=OHs6FOwMH#?Q#w;sMpO4s?6aaFHO?;#?;Hp6O<sMOOaQQw=s#M;4p?SaFF6Oa;Q==F46;dpMK#F6wwHsQp6waQH??M_OFFw=HH?66wwpQ==6#s4MM;rFs#6p;F=6O;s=6Hp4O;s=6#aw##MFpO;=OQOpsOw;a#Qd=H#O;MFOK;6F6X#FQ;##4ssHrMss66w6Qs?s=M;;Mp6#6s6pw;QF??#ska9MlQsH6F=H=#?44aMFFQs;skwFaFQW?7#;M4pMw=w;a4?w4M4sppswF;wwHFQp==pORaF=wHH66?F=wHHQ#M#;4#w4aq?a#F4O;##!sH66wUH4?##Q;w;OpHs46QaaQs?O#;;=;Hp;sC6;a#QH=w#M;pM=OpFa6OaOQ===4HM6ptO4F#wHHwQp=p44M?OaD6FOw;H=?H#64pMMO#L-6wasHp?##?;wpFOOps6=aHQ6?O#M;#pQiwFs6pa4Q6=a4F;Op;OOFHw6aA6H6aw6?s?;=;4aMO-FsM=O4sM=OHs6pHM?OMsQaFa;HM?H46;FMpHO?a#=;Hp6=M#p;;p=IOFp6#;4M?<aFF6OIQmH6sws?QQO=#4F;3 ps=F=wFH;?O##F;waHH?6=haHQ=?##O6sw6H4??#a;F=aO;s=6HaFHG?M##4aMQKssM64a6Qa=F#O#;paCHFF6+a;Q#=H4w4Op#J4FawaapQO=;4=MHMOj_F;w#Hw?w=O4p44pOsa6swOH4?=#w;64:O?s#6HawH+?p#?;?MOpPsO6=a=QH=6#O;Mp=1QFwssapQ4=?4aMFpO:;F=X#H6QO=M4QMQO6ssFpJ(H??a#F4pM;O=sH6FwtHM?#=p;wpsOps4FMaaQF?OH=Hs?a=a4=M?zQ(6666MH=p4O8FawFaO6wFww=QF?F=p;sp6HwQH=p44M?#=#6;;p4OM6H6QaOHw=a#a6ww#Hp?4#?QaQH=p#6MwpwOJ?+#H;#pQ0wMQ;=pp%?F;wwH?p;VaFHw6aZsH6=w#HOOsO=F4w?Ha6;6HwpQa#P##4pM#OHww6;a?QF=Q;=;OTO36F46Ha6p6OHsM6#aQFMF;6#Q??6=6#;MHO=sw=H##;_pMX#pwM;O(5;6#aaHs?M=MF;6=HH?6=l4M=MOQsw6swpH4??#a4;=QO;s=6HwwH:?;##;QpwOM_#64a?Qa?6#O;4p=OwLw6%aMQ#=s4wMsppp4spwaHFQO=;4=;pO6OpF?w#Ha?w=M4pM4O?sasHwOH;?=#w;6MpOMO#s;awQs?p#4;?pFcFOO6aa=QH=6#y;MpsoQ/wF?apQ4=?4aMFp?u;sQ6pH6Qp=M4?MQOwssFpFMH??a#F4MM;OQsHs6OwHM?##Q;wpsOMs4FH)aQF?M#;;wpH06s_6MspQQ=w4s;;p4lQFawFFwQ;==4HMFp:gMF#wQHw?s=p4QM?OasFFOwaH=?H#6Q?H=?H#QpMp;O#?4=p;apFOO#B;#Oa+OsM6=a?Qp=H4#6paQQ?=a4FH??4=;;sw6s;QM=#4QH;QM=#44MaF4a6Htw#Q?QOpa;=pwOHsOFOaOH=??46;6pOOSsp6aHsQa?;pOMQp?.QHFH=HQ?s=WM=pHFMPGF?wMHQQO#s46MOp?sa6Hw;Qs;6#F;4MHOFspFp?pHQ??=O4Op4+H??=M;FMOO; QpMa6He?M#?;Qpw2s/;6wa?Qw=F#;;;p=/Hk66saMQ==Q46MspMq4sH64HFQ;=;4aMHO6N.FMw6HQ?6#s44M4O?sa6FwMH;?=#H;6M!O4s#6QwaQs?p#4;QpaVssO6;spQH=6#_;;p#gQFwwsapQ4=?4sMFpOv;F=wFH6Q:=Ma6QH?Q#;FpwsH??a#Fa6HM=?4F4ZM;O4Fs6=aMps#Ms46?aa-#s46?a=Q6;=Os^pp?sHsM?6HQ?F=w4M;MOMJQFHasHs?M=p4;M6OOs6F#?MQa?H#aOyO6O#ss6#a#HM=6p?O6MO+;FFF(=?4a4Q#QMQFQbsF4wQaQ4?=;4;MMOQKaHHwaHp?6=4OQtsOwx?6a=HHa?p#6OMM;p.Fs=O4aM=OHs6p?M=OHsQaMa;H#O4Yo6aaFHOQ#a9;Hp6O/s46#aQQwQO=p;4pQRaFs6Oa;Q=QH#;;hp;+#FHwwaMQp?=#4MapO&OF=w=HH?6=o46M#OHswFpwpH4??#a#4MOO;s=6Ha6Hp?M###ppwrssp6#a?Qw=F#O=sp=mHF66OaMQ#=Q4wMspp04F?waHFQO=;4?MHO6<NFMfOHQ?w#s4MM4O?sa6FwOH;?=#F;6M{OMs#FMawQs?p6Oa=?w=p#;;?pQIMFaw=;M=pgQFwwsOHGQFwwaaO4aMMO#MwnFb=HOa6HpQy#=4=p=O6sF6MwMQ=?##?4Op4OOsHQ=HsQF=sp;MOpHOMFHwHa=QOMwMF;pOa:4HQw6aO?#M=46MMO=7=H#wpHp?O#=4Qs?OQsV6awM#=#O#=;sp4OMa?6Qw4Q;O#.n6wasHpw66wasQF4?4Q;aaHHO? #M;#Qt#64wM=a4H!=a4F;OM#4YFHw6aZQ;=#4QMwMORHF4wQHaQp=O4;M=MHO#Ffw;H#?H#w4pMpp=sF6awOHO?##=;Hp6OZs;6#aHQw?p#p;4p?YaFs6Oa;Q==H46;ppM)#s?wwHsQp=#4?MwOF<OOsw=HH?6=O4MM#OQsw6swpH4Q4#a;FMOO;s66Ha6Hos?6;aQ?6=p4664w=Qa=F#O???w#64sM4O;WQ6FHsaM?M=p4OMQPsQM=;4=MHO6G^FMw#HQ?w?U4pM4O?;6;MMOORs^w6HFH;=?4HpwMZTFs;w#HsQR>FsQ6;a=QHw6wOH#QO#H4MM;p4Q4=H4aMFpO4#pwwHa4Q}=M4#?w?O=O4?pFjasDFO4OMFO=sH66.=J?sHawaOHO??4FMapgQF?4#;;=pH=;4O;kOaQQ?24s;pp44M4QM=p4Q#==4HM6peIMF#aQFa?s?*44M?Oa4O44p4O;sM6aaO?#=a#a4pp?%4FH#?44pFOOs;O6pMAsF4a#HaQa?p4;;;a4Ha=a4F;Op;pFFHw6aUQM=#4HMw;sCQF4wQHaQO=O4=M=pH%QFKwMH#Q;#w4ZMpp=sQ6aasHO?6#=;Hp6M7(56#aHQw?J#p;6p?O6sw6Oa=Q==F46;5pMe#FHwwa}Qp=?4?M6OFpOOOw=Ha?6=O4MMaOQOw/?wpH#??#w;FMaO;O=FMa6HO?M#=;QMMWsOp6#a?Qw=F#p;;MMYHA66aaMQ==Q46Msp?>4d?6QHFQp=;4?MHOs<LkM6aHQ?6#s4MM4p4sas)w6H;?H#H;FMoOMs#6QF=Qs?##4;?pa3FsO6;IaQH?^#z;=p#lQFwws/4Q4=Q4aMFpO/4F=wHF?Q_=M4#MHOwssFpw4H??a#F44M;O=sH66w=HM?##QQ;HM?##4OspJOp?O#?;=pH!64=M;pMsF=w#Q;pp4,?4=M6Ops?FHwFHs?Q=O;6wQw6?s=p44Hj?s=p4OM=FOaQQww(Q;?Q#6;OpOVasMQ#HFQ6=FpM;QOaO;HsH4a=?a=s4sMHFwua=a##;Op;0=swO#abQM=#4wMwOsAps=F_Ha?s=O4#M=OHs6zu6pH#?H#w4RMpO#s?F6wwHO?=#=;Fp6O5sM6#w=Qw?^#p;?p?-aFF6OwQQ==H46;+pMn?FQwww=Qp=44?MwOFipF;w=F4?6=u4MM=OQsw6swpH4??#a4pMOO;s=6Hw;H<?M##QOHl?M#pOwO6vs=FHw;;p=XH44;;p=W#FwQ##F4O==;Q;p6ws?66waHpQp#p4?MQ_FsF6pwOHM?w#3;wM46pFH6QaH4s#w#4;Fp4}4spww===F?p#H;!OwD6Hw6pH??w=wOaM=O=s#6wwF#6?F#44jM?6wFHFpwMQa?4#;O^MOO6Fw#F44M;O=sH;;pOOxFa#Q4#psOps4;;pHssF46=aaQw=#4FMHa#HO=w4s;pM=4OFawFaOQ?==4HM6MpJ6F#wHHwQp=p44M?MaOHFOw4H=?a#64OMMp?rp6wwpHp?=#?;apFOO_;6=aaQ6?M#M;#pQtwX46pa4Q?=a4F;Mp;.=Fww6a!QM==4QM6OsdppKw?Ha?F=p4;M=OHs6F{wMH#?6#w;sMpO4ss6aaFHOww6aaFQ64=4?;HaQHb=s#p;4?s#w4aM#a;F6=H46;I?a=H46MwppwwH;?=H6=s=?OppFOM2O6?w?Q??F#s;;M;S?s=6QwpQ#?p#aR?p TssYQ4HpQa?;4aMap?bpH6HsaM?w=#OHMFpps=H?wFH;??=?O=MMOMsp6?wH#Q?H#O;wM;6?6w6p==#=;?#O;=psS4sM?s=s#P=w#;Z=p?O;FM#44ppaIFsO;Dp#saFO6Ma=Q?=p4HM#apQ6=?4aMFMM;6F=wHH6Q;=M4#MQpFSaFpw#H??6#F4OM;M=b666wOHM?=#Q;6psp;s#6?aFQF?;#;;=pH.6s?6Ma=QQ=s4s;pp4r?spwFaOQ;==4HMsp9XMF6wQHw?s=M44MQOasFOww;H=?H#F42MMO#sQ6wasHp?Q#?;apFOOsa6=aHQ6w?6=aHQQ4M4;;#a4Hp=a4F;OQD=#;aMOpMG=F?wpHH?#)pM6w?Ha?F6Qw?Ha?H=*OHsp64saw6w##{=w#O;sp#O#F#6wa6Qp?p4#;4p=O{F;6BaQ4##F46MFFMs9FQ6pHQ?Q=#4RsasY*;6=wOaM;a4vM;s#Owsp6#w##4?O#O;dp#O?a=6?HsQH?pp#p6p#:=sew=QwQ==?4;MFOwn;6paqQQ=p;aOaMwp?s==Q#SMspp}4;spwOas#=;4sMHO6j9s4-sHQ?w#s4;M4O?sasr6MH;??#H4OM)OMs#sQw?Qs?M#4;Qpa<ssOF#6MQH?Z#j;#p#JQFwwswaQ4=Q4a;OpOj;F=wHa#Q0=M4#MQOwDOFpw4H6?a#F4OM4O=sa66wi6F?##Q;wM{Ops46?aaQF?O#;");local n=0;h.WhjyubDA(function()h.zKBQGoda()n=n+1 end)local function e(a,e)if e then return n end;n=a+n;end local a,n,o=t(0,t,e,c,h.qJpJSOXi);local function d()local a,n=h.qJpJSOXi(c,e(1,3),e(5,6)+2);e(2);return(n*256)+a;end;local u=true;local u=0 local function j()local s=n();local e=n();local p=1;local s=(a(e,1,20)*(2^32))+s;local n=a(e,21,31);local e=((-1)^a(e,32));if(n==0)then if(s==u)then return e*0;else n=1;p=0;end;elseif(n==2047)then return(s==0)and(e*(1/0))or(e*(0/0));end;return h.kUhLCLgf(e,n-1023)*(p+(s/(2^52)));end;local _=n;local function k(n)local a;if(not n)then n=_();if(n==0)then return'';end;end;a=h.CPhVOCJo(c,e(1,3),e(5,6)+n-1);e(n)local e=""for n=(1+u),#a do e=e..h.CPhVOCJo(a,n,n)end return e;end;local _=#h.JERPFRUt(r('\49.\48'))~=1 local e=n;local function ee(...)return{...},h.pGmeRhwZ('#',...)end local function ne()local e={};local r={};local c={};local u={c,r,nil,e};local e=n()local f={}for s=1,e do local a=o();local e;if(a==3)then e=(o()~=#{});elseif(a==2)then local n=j();if _ and h.APXiLk_S(h.JERPFRUt(n),'.(\48+)$')then n=h.syGmLmgh(n);end e=n;elseif(a==0)then e=k();end;f[s]=e;end;u[3]=o();for r=1,n()do local e=o();if(a(e,1,1)==0)then local t=a(e,2,3);local o=a(e,4,6);local e={d(),d(),nil,nil};if(t==0)then e[p]=d();e[l]=d();elseif(t==#{1})then e[p]=n();elseif(t==b[2])then e[p]=n()-(2^16)elseif(t==b[3])then e[p]=n()-(2^16)e[l]=d();end;if(a(o,1,1)==1)then e[s]=f[e[s]]end if(a(o,2,2)==1)then e[p]=f[e[p]]end if(a(o,3,3)==1)then e[l]=f[e[l]]end c[r]=e;end end;for e=1,n()do r[e-(#{1})]=ne();end;return u;end;local function se(a,e,n)local s=e;local s=n;return r(h.APXiLk_S(h.APXiLk_S(({h.WhjyubDA(a)})[2],e),n))end local function _(j,m,r)local function se(...)local d,k,u,ae,c,n,o,ne,y,g,b,a;local e=0;while-1<e do if e>2 then if e>=5 then if 3<e then repeat if e~=5 then e=-2;break;end;a=t(7);until true;else a=t(7);end else if 2<e then repeat if 4~=e then ne={};y={...};break;end;g=h.pGmeRhwZ('#',...)-1;b={};until true;else g=h.pGmeRhwZ('#',...)-1;b={};end end else if e<=0 then d=t(6,77,1,7,j);k=t(6,21,2,63,j);else if-3~=e then for a=26,71 do if e~=2 then u=t(6,27,3,94,j);c=ee ae=0;break;end;n=-41;o=-1;break;end;else u=t(6,27,3,94,j);c=ee ae=0;end end end e=e+1;end;for e=0,g do if(e>=u)then ne[e-u]=y[e+1];else a[e]=y[e+1];end;end;local e=g-u+1 local e;local t;local function u(...)while true do end end while true do if n<-40 then n=n+42 end e=d[n];t=e[z];if 48>t then if 23>=t then if t>=12 then if 18<=t then if 21<=t then if 22>t then for t=0,6 do if t>2 then if t<5 then if t>=0 then repeat if t~=3 then a[e[s]][e[p]]=e[l];n=n+1;e=d[n];break;end;a[e[s]][e[p]]=e[l];n=n+1;e=d[n];until true;else a[e[s]][e[p]]=e[l];n=n+1;e=d[n];end else if t>=4 then for f=25,97 do if 5~=t then a[e[s]][e[p]]=e[l];break;end;a[e[s]][e[p]]=e[l];n=n+1;e=d[n];break;end;else a[e[s]][e[p]]=e[l];n=n+1;e=d[n];end end else if t>0 then if-3<t then repeat if 2~=t then a[e[s]][e[p]]=e[l];n=n+1;e=d[n];bre
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+
+local Window = Rayfield:CreateWindow({
+   Name = "blue lock rivals nova hub",
+   Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
+   LoadingTitle = "Nova hub",
+   LoadingSubtitle = "by Nova",
+   Theme = "Ocean", -- Check https://docs.sirius.menu/rayfield/configuration/themes
+
+   DisableRayfieldPrompts = false,
+   DisableBuildWarnings = false, -- Prevents Rayfield from warning when the script has a version mismatch with the interface
+
+   ConfigurationSaving = {
+      Enabled = true,
+      FolderName = nil, -- Create a custom folder for your hub/game
+      FileName = "Big Hub"
+   },
+
+   Discord = {
+      Enabled = false, -- Prompt the user to join your Discord server if their executor supports it
+      Invite = "noinvitelink", -- The Discord invite code, do not include discord.gg/. E.g. discord.gg/ ABCD would be ABCD
+      RememberJoins = true -- Set this to false to make them join the discord every time they load it up
+   },
+
+   KeySystem = true, -- Set this to true to use our key system
+   KeySettings = {
+      Title = "Nova hub",
+      Subtitle = "Key System",
+      Note = "Get the key in discord", -- Use this to tell the user how to get a key
+      FileName = "Key", -- It is recommended to use something unique as other scripts using Rayfield may overwrite your key file
+      SaveKey = true, -- The user's key will be saved, but if you change the key, they will be unable to use your script
+      GrabKeyFromSite = true, -- If this is true, set Key below to the RAW site you would like Rayfield to get the key from
+      Key = {"Novaisbest"} -- List of keys that will be accepted by the system, can be RAW file links (pastebin, github etc) or simple strings ("hello","key22")
+   }
+})
+
+Rayfield:Notify({
+   Title = "Made by nova!",
+   Content = "thanks for using the hub",
+   Duration = 6.5,
+   Image = 4483362458,
+})
+
+local Tab = Window:CreateTab("Styles", 4483362458) -- Title, Image
+
+local Button = Tab:CreateButton({
+   Name = "CR7 STYLE (made by touka)",
+   Callback = function()
+   game:GetService("StarterGui"):SetCore("SendNotification",{
+Title = "Script loaded enjoy!",
+Text = "Script is beta wait for updates in Arbix Hub server !", 
+
+Button1 = "Yes",
+Button2 = "Cancel",
+Duration = 30 
+})
+while true do
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/CR7/refs/heads/main/CR7.lua"))()
+
+loadstring(game:HttpGet("https://pastebin.com/raw/84rU4mHU"))()
+wait()
+end
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "DON LORENZO STYLE (made by touka)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Styles/refs/heads/main/Zombie.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Tab1 = Window:CreateTab("Hubs", 4483362458) -- Title, Image
+
+local Button = Tab1:CreateButton({
+   Name = "Auto gk (made by touka)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Arbix--Hub/refs/heads/main/Blue!ock.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab1:CreateButton({
+   Name = "Visual beta (join visual group to be verified)",
+   Callback = function()
+   loadstring(game:HttpGet("https://rawscripts.net/raw/Blue-Lock:-Rivals-Lock-Best-Free-Script-27507"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab1:CreateButton({
+   Name = "Express hub (Key)",
+   Callback = function()
+   loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Best-Free-Universal-GUI-V6-27679"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Tab2 = Window:CreateTab("any style", 4483362458) -- Title, Image
+
+local Button = Tab2:CreateButton({
+   Name = "Get Any Style - Made By Touka (need reo style to work)",
+   Callback = function()
+     loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Arbix-OP/refs/heads/main/SigmaSkibidiTOUKA.lua"))()
+   end,
+})
+
+local Tab3 = Window:CreateTab("Extras", 4483362458) -- Title, Image
+
+local Button = Tab3:CreateButton({
+   Name = "Mobile Keyboard",
+   Callback = function()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/skripts/refs/heads/main/deltamobile-keyboard-kraxked",true))();
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "Infinite Yield",
+   Callback = function()
+       loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "Infinite Jump",
+   Callback = function()
+        local InfiniteJumpEnabled = true
+game:GetService("UserInputService").JumpRequest:connect(function()
+	if InfiniteJumpEnabled then
+		game:GetService"Players".LocalPlayer.Character:FindFirstChildOfClass'Humanoid':ChangeState("Jumping")
+	end
+end)
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "more speed (dont spam)",
+   Callback = function()
+       loadstring(game:HttpGet("https://pastebin.com/raw/Bqbsph7s"))()
+   end,
+})
+
+local Button = Tab3:CreateButton({
+   Name = "inf stamina",
+   Callback = function()
+       local args = {
+    [1] = 0/0
+}
+
+game:GetService("ReplicatedStorage").Packages.Knit.Services.StaminaService.RE.DecreaseStamina:FireServer(unpack(args))
+   end,
+})
+
+local Tab4 = Window:CreateTab("credits", 4483362458) -- Title, Image
+
+local Button = Tab4:CreateButton({
+   Name = "credits to touka",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab4:CreateButton({
+   Name = "credis to NoNamefound",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab4:CreateButton({
+   Name = "hub made by nova",
+   Callback = function()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "noel noa style (mobile)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Noel-noa/refs/heads/main/Final.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "noel noa style (pc)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Noel-noa/refs/heads/main/Pc%20final%20in.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
