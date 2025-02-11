@@ -175,3 +175,19 @@ local Button = Tab4:CreateButton({
    -- The function that takes place when the button is pressed
    end,
 })
+
+local Button = Tab:CreateButton({
+   Name = "noel noa style (mobile)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Noel-noa/refs/heads/main/Final.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
+
+local Button = Tab:CreateButton({
+   Name = "noel noa style (pc)",
+   Callback = function()
+   loadstring(game:HttpGet("https://raw.githubusercontent.com/Youifpg/Noel-noa/refs/heads/main/Pc%20final%20in.lua"))()
+   -- The function that takes place when the button is pressed
+   end,
+})
